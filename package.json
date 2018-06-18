@@ -1,5 +1,5 @@
 {
-  "name": "flow-coverage-report",
+  "name": "@fintory/flow-coverage-report",
   "version": "0.5.0",
   "description": "Generate an HTML report of the flow coverage data",
   "main": "dist/lib/index.js",
